@@ -1,9 +1,9 @@
  apiVersion: v1
-kind: ConfigMap
-metadata:
+ kind: ConfigMap
+ metadata:
   name: nginx-config
-data:
+ data:
   project: roboshop
   course: kubernetes
   trainer: sivakumar
-  
+
