@@ -42,3 +42,6 @@ spec:
       claimName: ebs-static
   nodeSelector:
     topology.kubernetes.io/zone: us-east-1b
+
+
+    
